@@ -1,1 +1,0 @@
-# Wir werden hier mal ein Notebook erstellen und die Aufgabe wird sein mit fünf aktien die man über eine Funktion erstmal initialisiert.
